@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
           centerTitle: true,
           backgroundColor: Colors.green,
           title: Text(
-            "Zakaria",
+            "Zakaria Hossain",
             style: TextStyle(fontSize: 40),
           ),
         ),
